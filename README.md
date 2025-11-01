@@ -5,9 +5,7 @@
 Welcome to my profile — feel free to check out my projects!  
 I'm just learning programming and having fun Learning code.  
 If you want to know more about me, visit:  
-🔗 [guns.lol/drowblack](https://guns.lol/drowblack)
-
-(ill make my own website for that soon.) ♥️
+🔗 [drowblack.lol](https://drowblack.lol/)
 
 ---
 
@@ -49,7 +47,7 @@ If you want to know more about me, visit:
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/672371899225079848)
 [![YouTube](https://img.shields.io/badge/YouTube-8A2BE2?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@drowblack)
-[![Website](https://img.shields.io/badge/guns.lol%2Fdrowblack-5A189A?style=for-the-badge&logo=firefox&logoColor=white)](https://guns.lol/drowblack)
+[![Website](https://img.shields.io/badge/drowblack.lol-5A189A?style=for-the-badge&logo=firefox&logoColor=white)](https://drowblack.lol/)
 [![GitHub](https://img.shields.io/badge/GitHub-2E026D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DrowBlack)
 
 ---
