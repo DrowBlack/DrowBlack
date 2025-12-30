@@ -24,7 +24,7 @@ If you want to know more about me, visit:
 
 ## 💬 About Me
 
-- I'm **16 years old** (born in 2009)  
+- I'm **17 years old** (born in 2009)  
 - 🇹🇷 I live in **Türkiye (Turkey)**  
 - 💻 I love **coding**, **gaming**, and **video editing**  
 - 🌱 Currently learning **HTML**, **CSS**, and **JavaScript**  
