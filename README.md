@@ -35,12 +35,7 @@ If you want to know more about me, visit:
 
 ## 📊 My GitHub Stats
 
-![DrowBlack's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DrowBlack&show_icons=true&theme=tokyonight&title_color=9D4EDD&icon_color=9D4EDD&text_color=E0AAFF&bg_color=0D0D0D)
-
-### 🔥 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrowBlack&layout=compact&theme=tokyonight&title_color=9D4EDD&text_color=E0AAFF&bg_color=0D0D0D)
-
+![DrowBlack's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=DrowBlack&show_icons=true&theme=tokyonight)
 ---
 
 ## 🌐 Connect With Me
