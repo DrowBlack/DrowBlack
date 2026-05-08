@@ -17,8 +17,6 @@ If you want to know more about me, visit:
 ![Python](https://img.shields.io/badge/Python-7B2CBF?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-5F0F40?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-9333EA?style=for-the-badge&logo=csharp&logoColor=white)
-![Kiro AI](https://img.shields.io/badge/Kiro%20AI%20❤️-6A00FF?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode%20(sometimes)-4C1D95?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -29,7 +27,7 @@ If you want to know more about me, visit:
 - 💻 I love **coding**, **gaming**, and **video editing**  
 - 🌱 Currently learning **HTML**, **CSS**, and **JavaScript**  
 - 🌠 I have a **YouTube channel** — check it out [here!](https://youtube.com/@drowblack)  
-- My goal: *to become better every day and build something cool!*
+- My goal: *to become better every day and build something cool.*
 
 ---
 
@@ -48,8 +46,3 @@ If you want to know more about me, visit:
 ---
 
 ![Visitors](https://komarev.com/ghpvc/?username=DrowBlack&color=8A2BE2&style=for-the-badge)
-
-<i># i use arch btw 😎</i>
-
----
-> 💜 “Code, learn, build — repeat until you become rich.” 
